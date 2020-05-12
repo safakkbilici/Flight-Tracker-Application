@@ -23,6 +23,12 @@ This is a semester project of Object Oriented Programming BLM2012. This project 
 
 - SYSTEM ALSO HAS "CRASH THE FLIGHT INTO ISLAND" OPTION!
 
+## Project Colleagues
+
+- Şafak Bilici
+- Ahmet Salih Özmen
+
+
 ## Panel
 
 <img src="/img/1.png" alt="drawing" width="600"/>
